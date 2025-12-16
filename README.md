@@ -33,14 +33,14 @@ The application captures an image via the device camera, converts it into a safe
 
 ## Screenshots
 
-**Low-light detection (invalid capture):**
+**Valid image detection (accepted capture):**
 
 <img src="https://github.com/user-attachments/assets/6e12eda5-ebfa-40a9-9d9b-a25220f7b42e"
      alt="Low-light image rejected"
      width="300" />
 
-**Valid image detection (accepted capture):**
 
+**Low-light detection (invalid capture):**
 <img src="https://github.com/user-attachments/assets/7cb9d5ee-ad80-499f-86c5-f30c75073790"
      alt="Valid image accepted"
      width="300" />
